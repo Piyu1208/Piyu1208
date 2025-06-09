@@ -1,7 +1,7 @@
 # 👨‍💻 Piyush Sharma 
-<h3 align="center">Pursuing B.Tech from MLVTEC
 
-Welcome to my project showcase! I'm a curious and motivated learner who enjoys solving real-world problems through code. Below you'll find a few projects I've built using Python, Django, and Pygame. Each of them reflects my passion for building meaningful solutions and improving my skills through hands-on experience.
+
+Welcome to my project showcase! I'm a computer science enthusiast who enjoys solving real-world problems through code. Below you'll find a few projects I've built using Python, Django, and Pygame. Each of them reflects my passion for building meaningful solutions and improving my skills through hands-on experience.
 
 ---
 
